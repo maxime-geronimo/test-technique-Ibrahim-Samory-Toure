@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+nav ul li {
+	display: inline;
+	padding: 6%;
+	width: 100%;
+	font-family: 'Roboto', sans-serif;
+}
+
+.Rectangle {
+  width: 1440px;
+  height: 60px;
+  background-color: #000000;
+}
+
+.dsgnmedia {
+  width: 103px;
+  height: 18px;
+  background-color: #ffffff;
+}
+
+.Shape {
+  width: 16px;
+  height: 15px;
+  background-color: #ffffff;
+}
+
+.pop-culture {
+  width: 77px;
+  height: 18px;
+  font-family: Aleo;
+  font-size: 15px;
+  text-align: left;
+  color: #ffffff;
+}
+
+.design {
+  width: 44px;
+  height: 18px;
+  font-family: Aleo;
+  font-size: 15px;
+  text-align: left;
+  color: #ffffff;
+}
+
+.photography {
+  width: 87px;
+  height: 18px;
+  font-family: Aleo;
+  font-size: 15px;
+  text-align: left;
+  color: #ffffff;
+}
+
+.about-us {
+  width: 57px;
+  height: 18px;
+  font-family: Aleo;
+  font-size: 15px;
+  text-align: left;
+  color: #ffffff;
+}
+
+.Oval {
+  width: 18px;
+  height: 18px;
+  object-fit: contain;
+}
+
+.Maxime-Jacquet {
+  width: 112px;
+  height: 18px;
+  font-family: Roboto;
+  font-size: 15px;
+  text-align: right;
+  color: #ffffff;
+}
